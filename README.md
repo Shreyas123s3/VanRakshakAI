@@ -25,7 +25,7 @@ Scalable & Secure: Built on Firebase + Supabase for real-time, secure data handl
 
 **URL**: https://stupendous-marigold-2fc275.netlify.app/
 
-##🚀 Technologies Used
+## 🚀 Technologies Used
 A high-level breakdown of the technologies powering this project:
 
 🌐 Frontend
