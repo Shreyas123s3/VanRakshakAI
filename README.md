@@ -25,14 +25,46 @@ Scalable & Secure: Built on Firebase + Supabase for real-time, secure data handl
 
 **URL**: https://stupendous-marigold-2fc275.netlify.app/
 
-## What technologies are used for this project?
+##🚀 Technologies Used
+A high-level breakdown of the technologies powering this project:
 
-Frontend: React.js, Tailwind CSS, Mapbox, CesiumJS, PWA
-Backend: Firebase, Supabase (Auth, Realtime DB, Storage)
-AI/ML: TensorFlow.js, Whisper/Wav2Vec, OpenAI API (chatbot, classification)
-Deployment: Netlify, GitHub (CI/CD)
-For UI,UX AI tool used : Lovable
-(Note: This project is not entirely build on lovable )
+🌐 Frontend
+React.js – Robust JavaScript library for building user interfaces
+
+Tailwind CSS – Utility-first CSS framework for rapid UI development
+
+Mapbox – Interactive, customizable maps
+
+CesiumJS – 3D geospatial visualization engine
+
+PWA – Progressive Web App support for offline-first experience
+
+🧠 AI / Machine Learning
+TensorFlow.js – Machine learning in the browser and on Node.js
+
+Whisper / Wav2Vec – Speech-to-text models for audio processing
+
+OpenAI API – Powering features like chatbot, text classification, and more
+
+🔧 Backend
+Firebase – Realtime database, authentication, and hosting
+
+Supabase – Open source Firebase alternative used for:
+
+Auth
+
+Realtime database
+
+Storage
+
+🚀 Deployment & DevOps
+Netlify – Frontend deployment platform with serverless functions
+
+GitHub – Source control with integrated CI/CD pipelines
+
+🎨 UI/UX Design
+Lovable (AI Design Tool) – Assisted in UI/UX prototyping
+Note: Project is not fully built on Lovable
 
 ## Setup Instructions - 
 1. Clone repo
