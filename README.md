@@ -35,7 +35,7 @@ For UI,UX AI tool used : Lovable
 (Note: This project is not entirely build on lovable )
 
 ## Setup Instructions - 
-Clone repo
-npm install to install dependencies
-Add Firebase credentials to .env
-Run locally using npm run dev
+1. Clone repo
+2. npm install to install dependencies
+3. Add Firebase credentials to .env
+4. Run locally using npm run dev
